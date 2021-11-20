@@ -12,6 +12,3 @@
 ![image](screenshots/add_key2.jpg)
 
 - 3. run project on android device
-
-## Getting Started
-
